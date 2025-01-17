@@ -402,7 +402,8 @@ body, html{
 
 .second--canvas .content h2{
 	position: relative;
-	margin:0;
+	margin: 20px;
+        height: 55px;
 }
 
 .second--canvas .content h2:nth-child(1){
