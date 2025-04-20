@@ -628,7 +628,7 @@ body, html{
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
-	color:#bf3db7;
+	color:#e36ddc;
 	text-transform: uppercase;
 	margin:0;
 	font-size:5em;
@@ -695,6 +695,10 @@ body, html{
 
 .third--canvas .center--line h1 > span:nth-child(14){
 	animation-delay: 4300ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(15){
+	animation-delay: 4400ms;
 }
 
 .third--canvas > img{
