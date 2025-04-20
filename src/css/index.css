@@ -575,7 +575,7 @@ body, html{
 }
 
 .third--canvas::after{
-	background:#1080f2;
+	background:#bf3db7;
 	animation-delay:700ms;
 }
 
@@ -628,7 +628,7 @@ body, html{
 	left:50%;
 	top:50%;
 	transform:translate(-50%,-50%);
-	color:#1080f2;
+	color:#bf3db7;
 	text-transform: uppercase;
 	margin:0;
 	font-size:5em;
@@ -691,6 +691,10 @@ body, html{
 
 .third--canvas .center--line h1 > span:nth-child(13){
 	animation-delay: 4200ms;
+}
+
+.third--canvas .center--line h1 > span:nth-child(14){
+	animation-delay: 4300ms;
 }
 
 .third--canvas > img{
